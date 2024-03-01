@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-02-27 16:06:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "*Towards Backward-Compatible Continual Learning of Image Compression*" is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)!
