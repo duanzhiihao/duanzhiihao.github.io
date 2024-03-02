@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-27 16:06:00-0400
+date: 2023-10-04 16:06:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper "*Towards Backward-Compatible Continual Learning of Image Compression*" is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)!
+Our paper "*QARV: Quantization-Aware ResNet VAE for Lossy Image Compression*" is accepted to [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)!
