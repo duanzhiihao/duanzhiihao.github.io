@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi!
-I'm PhD student at Purdue University ECE, the <a href='https://engineering.purdue.edu/~ips/'>Video and Image Processing Lab</a>.
+I'm a PhD student at Purdue University ECE, the <a href='https://engineering.purdue.edu/~ips/'>Video and Image Processing Lab</a>.
 I work on the intersection of data compression, computer vision, and machine learning.
 My research goal is to develop methods that use deep learning to improve visual data compression **(compression by AI)**, design compression methods that are tailored to downstream vision tasks **(compression for AI)**, and use compression as a tool to improve downstream vision tasks performance **(AI by compression)**.
 
