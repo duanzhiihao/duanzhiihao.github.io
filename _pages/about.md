@@ -23,13 +23,13 @@ social: true # includes social icons at the bottom of the page
 Hi!
 I'm a PhD student at Purdue University ECE, the <a href='https://engineering.purdue.edu/~ips/'>Video and Image Processing Lab</a>.
 My research lies in the intersection of data compression, computer vision, and machine learning.
-Currently, our goal is to develop methods that use deep learning to improve visual data compression **(compression by AI)** and design compression methods that are tailored to downstream vision tasks **(compression for AI)**.
+Our goal is to use deep learning to improve visual data compression **(compression with AI)** and design compressors tailored to downstream vision tasks **(compression for AI)**.
 I also work with colleagues on neural network model compression **(compression of AI)**.
 
 **Education:**
 I received my Bachelor's degree in Electrical Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China, in 2018.
 I received my Master's degree in ECE from [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/), USA, in 2020.
-I'm currently pursuing my PhD at Purdue University, USA, expected to graduate in late 2024.
+I'm currently pursuing my PhD at Purdue University, USA, and expect to graduate in late 2024.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
