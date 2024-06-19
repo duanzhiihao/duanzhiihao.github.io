@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "*Lossy Image Compression with Quantized Hierarchical VAEs*" is awarded the [Best Algorithms Paper Award](https://wacv2023.thecvf.com/node/174) at [WACV 2023](https://wacv2023.thecvf.com/)!
+Our paper "*Lossy Image Compression with Quantized Hierarchical VAEs*" is awarded the [Best Paper Award](https://wacv2023.thecvf.com/node/174) at [WACV 2023](https://wacv2023.thecvf.com/)!
